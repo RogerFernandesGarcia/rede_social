@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.section-login{
+    width: 50%;
+    height: 600px;
+    position: absolute;
+    background-color: #2F4F4F;
+}
+.article-login{
+    width: 40%;
+    height: 550px;
+    margin: 0 auto;
+    margin-top: 25px;
+    border-radius: 8px;
+    
+    background-color: #fff;
+}
